@@ -1,1 +1,3 @@
-10.10.12.149
+[servers]
+10.10.12.149 ansible_user=tarun1
+10.10.12.134 ansible_user=shreya
